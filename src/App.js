@@ -14,6 +14,7 @@ import Booking from './Pages/Booking/Booking/Booking';
 import Login from './Pages/Login/Login';
 import AuthProvider from './Contexts/AuthProvider';
 import PrivetRoute from './Pages/Login/PrivetRoute/PrivetRoute';
+import Register from './Pages/Register/Register';
 
 function App() {
   return (
@@ -30,6 +31,9 @@ function App() {
         </Route>
         <Route path='/login'>
           <Login></Login>
+        </Route>
+        <Route path='/register'>
+          <Register></Register>
         </Route>
         <PrivetRoute path='/booking/:bookingId'>
         <Booking></Booking>

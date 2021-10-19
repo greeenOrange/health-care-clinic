@@ -2,9 +2,10 @@ import React from 'react';
 import './Contract.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowAltCircleRight } from '@fortawesome/free-solid-svg-icons'
+import { Table } from 'react-bootstrap';
 const Contract = () => {
     return (
-        <div id='timetable' className='container my-4'>
+        <div id='timetable' className='container me-4'>
             <div className="row">
                 <div className="main-contract col">
                 <div className="contract-info1 common-info">
@@ -14,16 +15,29 @@ const Contract = () => {
                     </div>
                 <button className='btn btn-dark'>View TimeTable <FontAwesomeIcon icon={faArrowAltCircleRight}></FontAwesomeIcon></button>
                 </div>
-
-                {/* <div className="contract-info2 common-info">
-                    <h3>working Time</h3>
-                <div className="time">
-                <p className=''>Monday to
-                Friday  8.00-17.30</p>
-                <p className=''>Saturday  9.00-17.00</p>
-                <p className=''>Sunday  9.00-15.00</p>
-                </div>
-                </div> */}
+   <Table className='contract-info2 common-info' striped bordered hover>
+  <thead>
+    <tr>
+      <th>Working</th>
+      <th>Time</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td>Monday-Friday</td>
+      <td>8.00-17.30</td>
+    </tr>
+    <tr>
+      <td>Saturday </td>
+      <td>9.00-17.00</td>
+    </tr>
+    <tr>
+      <td>Sunday</td>
+      <td>9.00-15.00</td>
+    </tr>
+    
+  </tbody>
+</Table>
 
 
                 <div className="contract-info3 common-info">

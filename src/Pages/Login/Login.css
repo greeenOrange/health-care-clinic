@@ -1,0 +1,6 @@
+.bg{
+    background: rgb(15,188,190);
+background: linear-gradient(90deg, rgba(15,188,190,1) 10%, rgba(204,155,40,0.7375992633381477) 90%);
+    height: 100vh;
+    padding: 2rem 1rem;
+}
