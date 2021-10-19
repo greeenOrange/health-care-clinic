@@ -1,0 +1,51 @@
+[
+	{
+	  "img": "https://i.ibb.co/0VKRb4Y/doc-1.jpg",
+	  "name": "Dr.Lysandra Terrell",
+	  "age":37,
+	  "phone": "1-818-763-6796",
+	  "title": "Primary Health clinic"
+	},
+	{
+	  "img": "https://i.ibb.co/0s3bB5t/doc-2.jpg",
+	  "name": "Dr.Farrah Anderson",
+	  "age":58,
+	  "phone": "(382) 861-8476",
+	  "title": "Hematology Clinic"
+	},
+	{
+	  "img": "https://i.ibb.co/NNdqdm5/doc-3.jpg",
+	  "name": "Dr.Cullen Morrow",
+	  "age":42,
+	  "phone": "(248) 642-0552",
+	  "title": "Nephrologist Clinic"
+	},
+	{
+	  "img": "https://i.ibb.co/p42L6h1/doc-4-1.jpg",
+	  "name": "Dr.Amy Ford",
+	  "age":67,
+	  "phone": "(832) 555-6241",
+	  "title": "Dental Clinic"
+	},
+	{
+	  "img": "https://i.ibb.co/Yjqnhc7/doc-5.jpg",
+	  "name": "Dr.Jessica Jackson",
+	  "age":41,
+	  "phone": "1-532-699-1255",
+	  "title": "Gynecologist Clinic"
+	},
+	{
+	  "img": "https://i.ibb.co/RDgjmKR/doc-6.jpg",
+	  "name": "Dr.Marsden Juarez",
+	  "age":39,
+	  "phone": "1-532-699-1255",
+	  "title": "OutPatent Clinic"
+	},
+	{
+	  "img": "https://i.ibb.co/PNFQ1D4/doc-7.jpg",
+	  "name": "Dr.Mandy nora",
+	  "age":43,
+	  "phone": "1-255-969-1001",
+	  "title": "Covid Clinic"
+	}
+  ]

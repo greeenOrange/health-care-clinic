@@ -1,0 +1,61 @@
+[
+   
+    {
+       "name":"Primary Health Care",
+       "img":"https://i.ibb.co/wr1XVNk/child-docto-rs-office.jpg",
+       "cost":17,
+       "discription":"Medicine is the science and practice of caring for a patient, managing the diagnosis, of their injury or disease, and promoting their health. ",
+       "title":"Madical info and Identify disease"
+    },
+    {
+       "name":"Hematology",
+       "img":"https://i.ibb.co/Fb4sMHb/3d-rendering-red-blood-cells-in-vein.jpg",
+       "cost":20,
+       "discription":"Hematology is the branch of medicine concerned with the study of the cause, prognosis, treatment, and prevention of diseases related to blood.",
+       "title":"Blood Related disease"
+    },
+    {
+       "name":"Nephrologist",
+       "img":"https://i.ibb.co/yQBt25D/salt-shape-kidney-dark-floor.jpg",
+       "cost":24,
+       "discription":"Hematology is the branch of medicine focused on the digestive system and its disorders. Diseases affecting the gastrointestinal tract",
+       "title":"constipation, acidity Related issue"
+    },
+    {
+       "name":"Dental",
+       "img":"https://i.ibb.co/tJ068WK/Getty-Images-1136317796.jpg",
+       "cost":13,
+       "discription":"Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment",
+       "title":" Teeth and Mouth Related problem"
+    },
+    {
+       "name":"Cardiology",
+       "img":"https://i.ibb.co/WVLR3kk/111016d2.png",
+       "cost":36,
+       "discription":"Cardiology is the branch of medicine that involves the medical care of infants, children, and adolescents.",
+       "title":"PainIn chast and heart Related disease"
+    },
+    {
+       "name":"OutPatent Surgary",
+       "img":"https://i.ibb.co/XFt3tsF/Medical-Team-Performing-Surgical-Operation-in-Modern-Operating-Room.jpg",
+       "cost":54,
+       "discription":"Outpatient surgery, also known as ambulatory surgery, day surgery, day case surgery, or same-day surgery,",
+       "title":"Surgary Related complexcity"
+    },
+    {
+       "name":"Gynecologist",
+       "img":"https://i.ibb.co/55FzT3H/depositphotos-129002582-stock-photo-ribbon-and-pink-stethoscope.jpg",
+       "cost":32,
+       "discription":"A gynecologist is a doctor who specializes in female reproductive health. They diagnose and treat issues related to the female reproductive",
+       "title":"Mother and Pragnent Related Patent"
+    },
+    {
+       "name":"Coronavirus",
+       "img":"https://i.ibb.co/QF56kPx/1583952355-1997.jpg",
+       "cost":"Free",
+       "discription":"Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.",
+       "title":"people who fall sick with COVID-19 will experience"
+    }
+ ]
+
+

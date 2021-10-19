@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+.service-container{
+    display: flex;
+    height: 250px;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    margin: .1rem .4rem;
+}
+.service-details h3{
+    color:brown;
+}
+.service-details p{
+    color:coral;
+    font-weight: 500;
+}
+.service-container:hover{
+    box-shadow: 5px 3px 3px gray;
+    cursor: pointer;
+}
