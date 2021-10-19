@@ -11,19 +11,14 @@ const UseFirebase = () => {
         setIsLoading(true)
         const googleProvider= new GoogleAuthProvider();
         
-        signInWithPopup(auth, googleProvider)
-        .then(result =>{
-            setUser(result.user)
-        })
+        return signInWithPopup(auth, googleProvider)
+        
         .finally(() => setIsLoading(false))
     }
     const signInGithub = ()=>{
         setIsLoading(true)
         const gitHubProvider = new GithubAuthProvider();         
-            signInWithPopup(auth, gitHubProvider)
-            .then(result =>{
-                setUser(result.user)
-            })
+           return signInWithPopup(auth, gitHubProvider)
             .finally(() => setIsLoading(false))
         
     }
