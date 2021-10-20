@@ -14,4 +14,13 @@
     "rules": "firestore.rules",
     "indexes": "firestore.indexes.json"
   }
+},
+{
+  "firebase": "<FirebaseAppName>",
+  "public": "./dist/project-folder",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
 }
