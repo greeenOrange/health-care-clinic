@@ -6,7 +6,7 @@ const About = () => {
         <div id='about' className='container main-header'>
             <div className="row">
                 <div className="col-md-6">
-                    <img src="https://surgical-experts.de/wp-content/uploads/2014/09/Best-Doctors-Germany-Group.jpg" alt="" />
+                    <img className='w-100' src="https://surgical-experts.de/wp-content/uploads/2014/09/Best-Doctors-Germany-Group.jpg" alt="" />
                 </div>
                 <div className="col-md-6">
                     <h2 className='text-success'>About us</h2>
