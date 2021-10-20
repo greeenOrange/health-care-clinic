@@ -1,0 +1,10 @@
+.doctors span{
+    color: #afa9a9;
+    font-size: 14px;
+}
+.doctors span::after{
+  content: "-";
+}
+.doctors span::before{
+  content: "-";
+}

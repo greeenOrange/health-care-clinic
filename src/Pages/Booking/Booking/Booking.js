@@ -17,7 +17,7 @@ const Booking = () => {
         setSingleService(foundService);
     },[servicesDetails])
     return (
-        <div className='booking-section'>
+        <div className='booking-section py-4'>
             <h2>{bookingId}</h2>
             <img className='w-25' src={singleService?.img} alt="" />
             <h4>{singleService?.title}</h4>
