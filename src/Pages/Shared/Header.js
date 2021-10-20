@@ -14,7 +14,7 @@ const Header = () => {
     <Navbar.Brand href="#home"> <img className='nav-img w-25' src="https://i.ibb.co/S7tdvLm/dc185b34f08f4fb8881c469356e552d2.png" alt="" />Global Doctor's Clinic</Navbar.Brand>
     <Navbar.Toggle />
     <Navbar.Collapse className="justify-content-end">
-      <Nav.Link as={HashLink} to="/home">Home</Nav.Link>
+      <Nav.Link as={HashLink} to="/home#home">Home</Nav.Link>
       <Nav.Link as={HashLink} to="/home#services">services</Nav.Link>
       <Nav.Link as={HashLink} to="/home#doctors">Doctors</Nav.Link>
       <Nav.Link as={HashLink} to="/home#timetable">Timetable</Nav.Link>

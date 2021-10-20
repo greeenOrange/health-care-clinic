@@ -3,7 +3,7 @@ import './About.css'
 
 const About = () => {
     return (
-        <div id='about' className='container'>
+        <div id='about' className='container main-header'>
             <div className="row">
                 <div className="col-md-6">
                     <img src="https://surgical-experts.de/wp-content/uploads/2014/09/Best-Doctors-Germany-Group.jpg" alt="" />

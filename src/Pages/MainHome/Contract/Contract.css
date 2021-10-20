@@ -1,6 +1,6 @@
 .contract-info1{
     background-color: #b9f068;
-    padding: .7rem .1rem;
+    padding: .6rem .1rem;
 }
 .common-info{
     width: 420px;
@@ -10,6 +10,7 @@
     background-color: #1d741d;
     padding: .7rem 4rem;
     color: #fff;
+    height: 245px;
 }
 .contract-info3{
     background-color: #6fd66b;
@@ -18,11 +19,7 @@
 .contract-info4{
     background-color: seagreen;
     padding: .7rem .1rem;
-}
-.main-contract{
-    display: flex;
-    color: #fff;
-    font-weight: 200;
+    
 }
 
 .details{

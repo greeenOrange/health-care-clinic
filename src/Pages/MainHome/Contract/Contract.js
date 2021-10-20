@@ -5,8 +5,9 @@ import { faArrowAltCircleRight } from '@fortawesome/free-solid-svg-icons'
 import { Table } from 'react-bootstrap';
 const Contract = () => {
     return (
-        <div id='timetable' className='container me-4'>
-            <div className="row">
+        <div id='timetable' className='container main-header me-4'>
+        <h2>Our schedule</h2>
+            <div className="row pt-2">
                 <div className="main-contract col-md-3">
                 <div className="contract-info1">
                     <div className="details">
